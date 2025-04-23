@@ -1,0 +1,2 @@
+- bound checking and assert.
+- 
