@@ -1,4 +1,2 @@
-brainf*ck interpreter
-=====================
-
+#### bf interpreter in rust
 
